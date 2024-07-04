@@ -6,6 +6,7 @@
 2. The expense type column has some spelling and punctuation errors, correct them
 3. Project names are not uniform, make it uniform.
 4. The Currency column has some missing values, based on the amount, create a new custom column.
+   
 Condition: amount >= 1000, = INR; amount < 1000, = USD; else = EURO
 
 Formula: (if [Currency] = null and [Amount] >= 1000 then "INR" else if [Currency] = null and [Amount] < 1000 then "USD" else [Currency] )
