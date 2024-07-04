@@ -3,7 +3,7 @@
 ![Employee Reimbursement](https://github.com/alexvatti/Employee_Reimbursement_PowerBI/blob/main/Capture.png)
 
 ## Problem Statement
-## Steps
+
 1. Import the data and open the Power Query
 2. The expense type column has some spelling and punctuation errors, correct them
 3. Project names are not uniform, make it uniform.
@@ -20,3 +20,17 @@ Formula: (if [Currency] = null and [Amount] >= 1000 then "INR" else if [Currency
 9. Create a slicer visual for the Project and employee
 10. Create a bar chart for employees and reimbursement amount.
 11. Create a pie chart for Project vs reimbursement amount
+
+### Steps Followed
+
+## Data Cleaning
+Meticulously handled null values, corrected spelling and punctuation errors, and standardized project names. Ensured  dataset ready for analysis!
+
+## Data Transformation
+Implemented a custom rule to fill missing currency values, converted USD & EURO to INR, and crafted a dynamic measure to calculate total reimbursed amounts. 
+Delved deeper to derive insights on Project_B and tracked declined requests.
+
+## Dashboard Creation
+Crafted an interactive experience with a slicer visual for projects and employees. 
+Visualized employee reimbursement amounts through a compelling bar chart and presented a clear overview of project vs. reimbursement amounts with a pie chart.
+
