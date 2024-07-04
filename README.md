@@ -1,6 +1,6 @@
 # Employee_Reimbursement_PowerBI
 
-![Employee Reimbursement]([https://github.com/alexvatti/Employee_Reimbursement_PowerBI/blob/main/Capture.png])
+![Employee Reimbursement](https://github.com/alexvatti/Employee_Reimbursement_PowerBI/blob/main/Capture.png)
 
 ## Problem Statement
 ## Steps
