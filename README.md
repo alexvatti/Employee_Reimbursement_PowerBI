@@ -1,4 +1,4 @@
-# Employee_Reimbursement_PowerBI
+# Employee Reimbursement Power BI
 
 ![Employee Reimbursement](https://github.com/alexvatti/Employee_Reimbursement_PowerBI/blob/main/Capture.png)
 
